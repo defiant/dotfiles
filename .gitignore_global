@@ -1,13 +1,10 @@
 # System files
-*~
 _Store
 .DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-Icon?
 ehthumbs.db
+Icon?
 Thumbs.db
+*.DS_Store
 
 # Vim swap and backup files
 *.swo
