@@ -13,5 +13,6 @@ GREEN="\[\033[0;32m\]"
 NO_COLOUR="\[\033[0m\]"
 
 PS1="$WHITE\u$NO_COLOUR:\w$YELLOW\$(parse_git_branch)$NO_COLOUR\$ "
+
 export CLICOLOR=1
 export LSCOLORS=cxfxcxdxbxegedabagacad
