@@ -9,3 +9,6 @@ Thumbs.db
 # Vim swap and backup files
 *.swo
 *.swp
+
+# Sass
+.sass-cache
